@@ -1,0 +1,197 @@
+/* @import "null.css"; */
+
+@import url("https://fonts.googleapis.com/css2?family=Comforter&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Supermercado+One&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;500;700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+
+@font-face {
+	font-family: "SFProDisplay";
+	src: url("../fonts/SFProDisplay-Light.woff2") format("woff2"), url("../fonts/SFProDisplay-Light.woff") format("woff");
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "SFProDisplay";
+	src: url("../fonts/SFProDisplay-Bold.woff2") format("woff2"), url("../fonts/SFProDisplay-Bold.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+div {
+	text-align: justify;
+	color: darkmagenta;
+}
+
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+}
+
+.text {
+	color: rgb(30, 33, 175);
+	font-family: "SFProDisplay";
+	font-weight: 300;
+}
+li {
+	text-decoration: underline;
+	color: dodgerblue;
+}
+h1 {
+	font-size: 40px;
+	text-shadow: 1px 1px 4px rgb(5, 5, 5);
+	color: rgb(83, 175, 83);
+	font-family: "Supermercado One", cursive;
+}
+
+h2 {
+	text-shadow: 2px 2px 5px rgb(139, 32, 0);
+	color: blue;
+	font-family: "Roboto Slab";
+	font-weight: 700;
+}
+
+h3 {
+	text-transform: uppercase;
+	color: gold;
+	font-family: "Lobster";
+}
+
+h4 {
+	font-size: 20px;
+	font-family: "Roboto Slab";
+	font-weight: 500;
+	color: rgb(31, 146, 47);
+}
+
+ol {
+	text-transform: uppercase;
+	color: gold;
+	font-family: "Lobster";
+}
+
+.text1 {
+	line-height: 2.25;
+	color: rgb(205, 91, 63);
+}
+.text2 {
+	letter-spacing: 5px;
+	color: rgba(164, 33, 168, 0.74);
+}
+.link {
+	font-size: 40px;
+	color: rgb(230, 17, 17);
+	font-family: "SFProDisplay";
+	font-weight: 700;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-bottom: 50px;
+	margin-right: 0px;
+	display: inline-block;
+}
+
+p {
+	color: darkblue;
+	font-family: "Roboto Slab";
+	font-weight: 300;
+}
+ul {
+	color: rgb(125, 180, 70);
+	font-family: "Roboto Slab";
+	font-weight: 500;
+}
+a {
+	color: rgb(14, 55, 238);
+}
+
+.block {
+	width: 75%;
+	margin: 0px auto;
+}
+
+.block-2 {
+	max-height: 150px;
+	overflow: auto;
+	margin: 0px auto;
+}
+
+.block-3 {
+	font-size: 20px;
+	margin-top: 50px;
+	margin-left: 0px;
+	margin-right: 40px;
+	margin-bottom: 50px;
+}
+
+.block-4 {
+	padding-top: 5px;
+	padding-left: 176px;
+	padding-right: 40px;
+	padding-bottom: 20px;
+}
+
+.block-5 {
+	width: 63%;
+	margin: 0px auto;
+}
+
+.block-6 {
+	margin-top: 0px;
+	margin-left: 20px;
+	margin-right: 0px;
+	margin-bottom: 20px;
+}
+
+.block-7 {
+	margin-top: 40px;
+	margin-left: 40px;
+	margin-right: 0px;
+	margin-bottom: 40px;
+}
+
+.block-8 {
+	margin-top: 40px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 100px;
+}
+
+.heading {
+	font-size: 40px;
+	font-family: "lato";
+	font-weight: 900;
+	color: black;
+}
+.list {
+	font-family: "lato";
+	font-weight: 400;
+	color: black;
+	text-shadow: 1px 1px 5px rgb(37, 37, 37);
+}
+.text3 {
+	font-size: 20px;
+	font-family: "lato";
+	font-weight: 700;
+	color: black;
+	text-shadow: 0.1px 1px 3px rgb(37, 37, 37);
+}
+.text4 {
+	font-family: "lato";
+	font-weight: 400;
+	color: black;
+	text-shadow: 0.1px 1px 3px rgb(37, 37, 37);
+}
+.text5 {
+	font-size: 20px;
+	font-family: "lato";
+	font-weight: 700;
+	color: black;
+}
